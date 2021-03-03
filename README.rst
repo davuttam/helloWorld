@@ -104,4 +104,3 @@ the *Django Admin Interface* like this:
    :alt: Django Admin Interface running
 
    Django Admin Interface running
-
